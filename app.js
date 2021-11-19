@@ -38,4 +38,4 @@ function funcBooks(){
 
     }else console.log('Categoria não encontrada!')
 }
-var teste = 12
+var teste = 122
